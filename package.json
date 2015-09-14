@@ -1,0 +1,15 @@
+{
+  "name": "eintopf-registry",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "server.js",
+  "description": "Http service that offers eintopf registry information",
+  "author": "Marcel Kilian <cdskilian@gmail.com>",
+  "repository": "#",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mazehall": "^2.1.0",
+    "sendhal": "^1.1.1",
+    "serve-static": "^1.10.0"
+  }
+}

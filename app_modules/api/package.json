@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "mazehall api module for eintopf-registry",
+  "main": "index.coffee",
+  "mazehall": true,
+  "components": [
+    "api"
+  ],
+  "author": "Marcel Kilian <cdskilian@gmail.com>"
+}
