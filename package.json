@@ -7,6 +7,7 @@
   "author": "Marcel Kilian <cdskilian@gmail.com>",
   "repository": "#",
   "dependencies": {
+    "coffee-script": "^1.10.0",
     "express": "^4.13.3",
     "mazehall": "^2.1.0",
     "sendhal": "^1.1.1",
